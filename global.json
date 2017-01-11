@@ -62,7 +62,7 @@
         "type": "client_native_ios",
         "repoUrl": "git://github.com/feedhenry-templates/sync-ios-swift.git",
         "githubUrl": "https://github.com/feedhenry-templates/sync-ios-swift.git",
-        "repoBranch": "refs/heads/master",
+        "repoBranch": "refs/heads/swift3",
         "icon": "icon-apple",
         "category": "Sample Apps",
         "screenshots": [{
@@ -161,7 +161,7 @@
         "type": "client_native_ios",
         "repoUrl": "git://github.com/feedhenry-templates/saml-ios-swift.git",
         "githubUrl": "https://github.com/feedhenry-templates/saml-ios-swift.git",
-        "repoBranch": "refs/heads/master",
+        "repoBranch": "refs/heads/switf3",
         "icon": "icon-apple",
         "category": "Sample Apps",
         "screenshots": []
@@ -249,7 +249,7 @@
         "type": "client_native_ios",
         "repoUrl": "git://github.com/feedhenry-templates/pushstarter-ios-swift.git",
         "githubUrl": "https://github.com/feedhenry-templates/pushstarter-ios-swift.git",
-        "repoBranch": "refs/heads/master",
+        "repoBranch": "refs/heads/swift3",
         "icon": "icon-apple",
         "category": "Sample Apps",
         "screenshots": [{
@@ -369,7 +369,7 @@
         "type": "client_native_ios",
         "repoUrl": "git://github.com/feedhenry-templates/welcome-ios-swift.git",
         "githubUrl": "https://github.com/feedhenry-templates/welcome-ios-swift.git",
-        "repoBranch": "refs/heads/master"
+        "repoBranch": "refs/heads/swift3"
       }]
     }, {
       "id": "mobile_spec_project",
@@ -530,7 +530,7 @@
       "description": "Native iOS (Swift) hello world app which echos your name via the Cloud",
       "repoUrl": "git://github.com/feedhenry-templates/helloworld-ios-swift.git",
       "githubUrl": "https://github.com/feedhenry-templates/helloworld-ios-swift.git",
-      "repoBranch": "refs/heads/master",
+      "repoBranch": "refs/heads/swift3",
       "icon": "icon-apple",
       "selected": false,
       "category": "iOS",
@@ -579,7 +579,7 @@
       "description": "Native iOS (Swift) blank app",
       "repoUrl": "git://github.com/feedhenry-templates/blank-ios-swift.git",
       "githubUrl": "https://github.com/feedhenry-templates/blank-ios-swift.git",
-      "repoBranch": "refs/heads/master",
+      "repoBranch": "refs/heads/swift3",
       "icon": "icon-apple",
       "category": "iOS",
       "screenshots": [{
