@@ -89,7 +89,7 @@
             "type": "client_native_android",
             "repoUrl": "git://github.com/feedhenry-templates/sync-android-app.git",
             "githubUrl": "https://github.com/feedhenry-templates/sync-android-app.git",
-            "repoBranch": "refs/heads/master",
+            "repoBranch": "refs/heads/build-tools-fix",
             "icon": "icon-android",
             "category": "Sample Apps",
             "screenshots": [
@@ -169,7 +169,7 @@
             "type": "client_native_android",
             "repoUrl": "git://github.com/feedhenry-templates/saml-android-app.git",
             "githubUrl": "https://github.com/feedhenry-templates/saml-android-app.git",
-            "repoBranch": "refs/heads/master",
+            "repoBranch": "refs/heads/build-tools-fix",
             "icon": "icon-android",
             "category": "Sample Apps",
             "screenshots": []
@@ -251,7 +251,7 @@
             "type": "client_native_android",
             "repoUrl": "git://github.com/feedhenry-templates/pushstarter-android-app.git",
             "githubUrl": "https://github.com/feedhenry-templates/pushstarter-android-app.git",
-            "repoBranch": "refs/heads/master",
+            "repoBranch": "refs/heads/build-tools-fix",
             "icon": "icon-android",
             "category": "Sample Apps",
             "screenshots": [
@@ -429,7 +429,7 @@
             "type": "client_native_android",
             "repoUrl": "git://github.com/feedhenry-templates/welcome-android-gradle.git",
             "githubUrl": "https://github.com/feedhenry-templates/welcome-android-gradle.git",
-            "repoBranch": "refs/heads/master"
+            "repoBranch": "refs/heads/build-tools-fix"
           },
           {
             "id": "welcome_project_windows",
@@ -570,7 +570,7 @@
         "description": "Native Android Gradle Blank App which echos your name via the Cloud",
         "repoUrl": "git://github.com/feedhenry-templates/blank-android-gradle.git",
         "githubUrl": "https://github.com/feedhenry-templates/blank-android-gradle.git",
-        "repoBranch": "refs/heads/master",
+        "repoBranch": "refs/heads/build-tools-fix",
         "icon": "icon-android",
         "category": "Android",
         "screenshots": []
@@ -611,7 +611,7 @@
         "description": "Native Android Hello World App using Gradle which echos your name via the Cloud",
         "repoUrl": "git://github.com/feedhenry-templates/helloworld-android-gradle.git",
         "githubUrl": "https://github.com/feedhenry-templates/helloworld-android-gradle.git",
-        "repoBranch": "refs/heads/master",
+        "repoBranch": "refs/heads/build-tools-fix",
         "icon": "icon-android",
         "selected": false,
         "category": "Android"
