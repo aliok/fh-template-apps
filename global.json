@@ -374,7 +374,7 @@
             "type": "client_advanced_hybrid",
             "repoUrl": "git://github.com/feedhenry/appforms-project-client.git",
             "githubUrl": "https://github.com/feedhenry/appforms-project-client.git",
-            "repoBranch": "refs/heads/dummy-jenkinsfile",
+            "repoBranch": "refs/heads/master",
             "forcedSelection": true,
             "category": "Forms",
             "description": "A template App for displaying Forms",
@@ -477,7 +477,7 @@
             "type": "client_advanced_hybrid",
             "repoUrl": "git://github.com/feedhenry-raincatcher/raincatcher-demo-mobile.git",
             "githubUrl": "https://github.com/feedhenry-raincatcher/raincatcher-demo-mobile.git",
-            "repoBranch": "refs/tags/v2.8.0",
+            "repoBranch": "refs/heads/master",
             "icon": "icon-cordova",
             "category": "Sample Apps",
             "screenshots": [
